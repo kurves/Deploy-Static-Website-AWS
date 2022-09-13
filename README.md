@@ -14,4 +14,10 @@ You will need an AWS account a free tier account will suffice.
 - Sentry - Bug Reporting
 Alternates:
 TBD
+### DevOps Tools 
+- Travis (CI/CD)
 
+### Frameworks
+
+- Ionic (Javascript) (Frontend)
+- Node.js (Javascript) (Backend)
