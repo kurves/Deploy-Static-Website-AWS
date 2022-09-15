@@ -5,7 +5,7 @@ You will need an AWS account a free tier account will suffice.
 
 ## Steps to accomplish this task
 - You will create a public S3 bucket and upload the website files to your bucket.
-- 
+- You will configure the bucket for website hosting and secure it using IAM policies.
 
 
 ## Dependecies
