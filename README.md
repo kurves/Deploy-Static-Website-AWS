@@ -14,7 +14,9 @@ You will need an AWS account a free tier account will suffice.
 
 ## Topics Covered
 - S3 bucket creation
-
+- S3 bucket configuration
+- Website distribution via CloudFront
+- Access website via web browser
 
 ## Dependecies
 - Amazon web services s3
