@@ -12,6 +12,9 @@ You will need an AWS account a free tier account will suffice.
 
 - You will access your website in a browser using the unique CloudFront endpoint.
 
+## Topics Covered
+- S3 bucket creation
+
 
 ## Dependecies
 - Amazon web services s3
