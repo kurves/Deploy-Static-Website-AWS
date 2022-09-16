@@ -23,6 +23,7 @@ You will need an AWS account a free tier account will suffice.
 - Once the bucket is create uploads files to it
 
 
+
 ## Dependecies
 - Amazon web services s3
 - Aws cloudfornt
