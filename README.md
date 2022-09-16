@@ -18,6 +18,11 @@ You will need an AWS account a free tier account will suffice.
 - Website distribution via CloudFront
 - Access website via web browser
 
+## Steps to follow
+- Create S3 bucket and allow public accesss to the bucket
+- Once the bucket is create uploads files to it
+
+
 ## Dependecies
 - Amazon web services s3
 - Aws cloudfornt
