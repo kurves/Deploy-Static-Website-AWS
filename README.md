@@ -23,8 +23,8 @@ You will need an AWS account a free tier account will suffice.
 - Once the bucket is create uploads files to it
 - Secure the bucket via IAM 
 - Configure the bucket to allow for ststic web hosting
-- Ditribute website via cloudfront
-
+- Distribute website via cloudfront
+- Access Website via browser
 
 ## Dependecies
 - Amazon web services s3
