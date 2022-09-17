@@ -21,7 +21,9 @@ You will need an AWS account a free tier account will suffice.
 ## Steps to follow
 - Create S3 bucket and allow public accesss to the bucket
 - Once the bucket is create uploads files to it
-
+- Secure the bucket via IAM 
+- Configure the bucket to allow for ststic web hosting
+- Ditribute website via cloudfront
 
 
 ## Dependecies
