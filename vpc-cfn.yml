@@ -1,0 +1,9 @@
+# Cloud Formation script
+Parameters:
+Resources:
+  mySecurityGroup:
+    Type: AWS::EC2:SecurityGroup
+    Properties:
+  myInstance:
+    Type: AWS::EC2::Instance
+    Proerties
