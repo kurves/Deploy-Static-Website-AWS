@@ -5,8 +5,9 @@ You will need an AWS account a free tier account will suffice.
 
 ## Objectives
 - Describe IaC and it's importance in DevOps
--  Configure basic settings to start using AWS services
--  
+- Configure basic settings to start using AWS services
+- Explain the fundamentals of Cloud Formation
+- Utilize AWS command-line tool-CLI
 
 ## Steps to accomplish this task
 - You will create a public S3 bucket and upload the website files to your bucket.
