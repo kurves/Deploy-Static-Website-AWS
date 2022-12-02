@@ -50,3 +50,9 @@ TBD
 
 - Ionic (Javascript) (Frontend)
 - Node.js (Javascript) (Backend)
+
+## Elastic Beanstalk
+
+Elastic beanstalk is an ocherstration service that allows ypou to deploy your web applivcation at the touch of a button by provisioning the resources requited to run the web application.
+
+Elastic Beanstalk can be used to deploy appplications deployed using .NET, Python, Go and Java
