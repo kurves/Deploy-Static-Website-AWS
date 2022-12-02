@@ -60,3 +60,11 @@ Elastic Beanstalk can be used to deploy appplications deployed using .NET, Pytho
 Creating an application using Elastic Beanstalk create an environment.
 
 **Environment**  is a collection of AWS resources and permissions to allow the web application to run smmoothly.
+
+While launching the environment the following resources are created automtically
+
+- Amazon S3 storage bucket
+- A target group in the default VPC
+- Security groups
+- An autoscaling launch configuration and an autoscaling group
+
