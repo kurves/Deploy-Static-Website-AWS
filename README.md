@@ -70,3 +70,21 @@ While launching the environment the following resources are created automaticall
 - EC2 instances
 - CloudWatch alarms
 - EC2 load balancer 
+
+## Storage and Content Delivery
+
+Storage and databases in the cloud provide a place to store, retrieve, and analyze data collected and stored voer aa long period of time
+
+### Storage and Databases
+
+Redshift
+ElastiCache
+Neptune
+Amazon DocumentDB
+Amazon Simple Storage Service (Amazon S3)
+Amazon Simple Storage Service (Amazon S3) Glacier
+DynamoDB
+Relational Database Service (RDS)
+
+
+
