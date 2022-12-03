@@ -17,3 +17,10 @@ Objects in an S3 are stored in a bucket.
 2. Metrics
 
 View the metrics for usage, request, bucket size, total number of objects, and storage class analysis. 
+
+3. Management
+It allows you to create life cycle rules to help manage your objects.
+
+4. Access points
+ Using an endpoint, you can perform all regular operations on the bucket.
+
