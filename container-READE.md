@@ -15,4 +15,10 @@ Containers make it easier for developers to create, deploy, and run applications
 Containers share a single kernel and share application libraries.
 Containers cause a lower system overhead as compared to Virtual Machines.
 
+### Docker
 
+Docker is a (container runtime) tool that helps to build, test, and run containers. You can build containers locally using a command-line utility, Docker Desktop. 
+
+### Dockerfile
+
+A text file containing commands to create an image. In other words, Docker generates images by reading the commands from a Dockerfile.
