@@ -6,3 +6,12 @@ Logging provides visibility into your cloud resources and applications. For appl
 ### Cloud Trail
 
 Cloud Trail allows you to audit (or review) everything that occurs in your AWS account. Cloud Trail does this by recording all the AWS API calls occurring in your account and delivering a log file to you.
+
+### Features
+CloudTrail provides event history of your AWS account activity, including:
+
+- actions performed
+- parameters for the actions
+- responses returned
+- who has logged in
+- services that were accessed
