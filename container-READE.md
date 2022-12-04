@@ -22,3 +22,11 @@ Docker is a (container runtime) tool that helps to build, test, and run containe
 ### Dockerfile
 
 A text file containing commands to create an image. In other words, Docker generates images by reading the commands from a Dockerfile.
+
+### What is Elastic Container Service (ECS)?
+
+ECS is an orchestration service used for automating deployment, scaling, and managing of your containerized applications. ECS works well with Docker containers by:
+
+launching and stopping Docker containers
+scaling your applications
+querying the state of your applications
